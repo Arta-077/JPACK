@@ -119,4 +119,4 @@ def WRITE_kwargs(Link, **kwargs):
 
 # ......NAME......
 if __name__ == "__main__":
-    print("hey body, use this package in your program.")
+    print("hey buddy, use this package in your program.")
